@@ -3,7 +3,7 @@
 ; Newton’s method
 ; f(guess) = guess^3 - x,
 ; guess denotes by g
-; gk+1 = gk - (f(gk)/f'(gk)) => gk+1=gk - (gk^3-x)/3gk^2 = (2gk^3+x)/3gk^2 = (2gk + x/gk^2 / 3
+; gk+1 = gk - (f(gk)/f'(gk)) => gk+1=gk - (gk^3-x)/3gk^2 = (2gk^3+x)/3gk^2 = (2gk + x/gk^2) / 3
 ;
 ; https://math.stackexchange.com/a/575295
 
